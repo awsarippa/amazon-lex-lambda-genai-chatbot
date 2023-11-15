@@ -153,3 +153,7 @@ Go to your Lex Bot (LexGenAIBot)
 Aliases > your-alias > your-language > change lambda function version or alias > change to your-version
 
 This will keep an instance running at all times and keep your lambda ready so that you won't have cold start latency. This will cost a bit extra (https://aws.amazon.com/lambda/pricing/) so use thoughtfully. 
+
+## Clean Up
+
+To clean up the resources created as part of this demonstration, run the command `cdk destroy` in the directory `amazon-lex-lambda-genai-chatbot`.
