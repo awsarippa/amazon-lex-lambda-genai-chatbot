@@ -40,7 +40,7 @@ Make sure you have the [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/gettin
 ### Set up environment and gather packages
 
 ```
-cd lex-genai-bot-cdk-files
+cd amazon-lex-lambda-genai-chatbot
 ```
 
 Install the required dependencies (aws-cdk-lib and constructs) into your Python environment 
