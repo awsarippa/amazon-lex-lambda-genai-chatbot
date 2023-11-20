@@ -1,5 +1,5 @@
 # AWS Lex-Lambda-Bedrock use-case Demo
-
+Arjun
 Demonstration of an interactive Amazon Lex chatbot that generates images with Amazon Bedrock using Lambda codehooks.
 
 ![Diagram](diagrams/archie_diagram.png)
