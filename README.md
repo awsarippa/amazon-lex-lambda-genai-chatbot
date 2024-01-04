@@ -117,8 +117,8 @@ If the deployment is successful, a Lex bot named `LexGenAIBot` should be seen in
 
 - Bot build in progress
 ![Diagram](diagrams/Build.png)
-![Diagram](diagrams/Build in-progress I.png)
-![Diagram](diagrams/Build in-progress II.png)
+![Diagram](diagrams/Build-in-progress-I.png)
+![Diagram](diagrams/Build-in-progress-II.png)
 
 
 - Once the Bot is built successfully, we're ready to test the `LexGenAIBot` bot. Click on the `Test` button
@@ -126,11 +126,11 @@ If the deployment is successful, a Lex bot named `LexGenAIBot` should be seen in
 
 
 - The Test console opens up.
-![Diagram](diagrams/Test Console.png)
+![Diagram](diagrams/TestConsole.png)
 
 
 - Enter some sample queries and get the image generated.
-![Diagram](diagrams/Sample Test case.png)
+![Diagram](diagrams/SampleTestCase.png)
 
 
 - The image would be generated and available in S3 bucket. Additionally, a S3 pre-signed url has been generated and shortened for easy consumption. 
