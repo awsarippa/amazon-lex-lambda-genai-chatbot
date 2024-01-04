@@ -8,8 +8,8 @@ Demonstration of an interactive Amazon Lex chatbot that generates images with Am
 This CDK code will create the following:
    - 1 Lex bot
    - 1 S3 bucket to store the generated image
-   - 1 Lambda (to invoke the Bedrock api and subsequently the Foundation Model provided by Stability Diffusion to generate the image)
-   - 2 Iam roles (one for the lex bot to call Lambda, one for the Lambda to call Bedrock and S3)
+   - 1 Lambda (to invoke the Bedrock API and subsequently the Foundation Model provided by Stability Diffusion to generate the image)
+   - 2 IAM roles (one for the lex bot to call Lambda, one for the Lambda to call Bedrock and S3)
 
 ## Requirements
 
