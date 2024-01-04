@@ -122,7 +122,7 @@ If the deployment is successful, a Lex bot named `LexGenAIBot` should be seen in
 
 
 - Once the Bot is built successfully, we're ready to test the `LexGenAIBot` bot. Click on the `Test` button
-![Diagram](diagrams/Build Complete.png)
+![Diagram](diagrams/BuildComplete.png)
 
 
 - The Test console opens up.
