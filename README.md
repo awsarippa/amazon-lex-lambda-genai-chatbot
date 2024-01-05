@@ -152,4 +152,4 @@ This will keep an instance running at all times and keep your lambda ready so th
 
 ## Clean Up
 
-To clean up the resources created as part of this demonstration, run the command `cdk destroy` in the directory `amazon-lex-lambda-genai-chatbot`.
+To clean up the resources created as part of this demonstration, run the command `cdk destroy` in the directory `lex-lambda-genai-imagegen-chatbot`.
