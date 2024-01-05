@@ -92,10 +92,6 @@ If the deployment is successful, a Lex bot named `LexGenAIBot` should be seen in
 ![Diagram](diagrams/GenerateImageIntentSampleUtterances.png)
 
 
-- Once you are in the `GenerateImageIntent` page, scroll down to `Sample utterances` to ensure the utterances are created.
-![Diagram](diagrams/GenerateImageIntentSampleUtterances.png)
-
-
 - Scroll down to find the `Fulfilment` section and click on the `Advanced options` button. Verify that `Fulfilment Lambda code hook option` is checked.
 ![Diagram](diagrams/GenerateImageIntentLambdaHook.png)
 
